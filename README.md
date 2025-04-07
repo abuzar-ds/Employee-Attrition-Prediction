@@ -28,5 +28,3 @@ To develop a predictive model that determines whether an employee is likely to l
 - Identified key drivers of attrition using feature importance analysis.
 - Provides actionable insights for HR departments to proactively address employee turnover.
 
-## 📂 Project Structure
-
